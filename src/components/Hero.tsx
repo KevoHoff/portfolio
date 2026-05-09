@@ -36,10 +36,10 @@ export default function Hero() {
           {/* Col 1: Headline */}
           <div className="hero-col-left">
             <h1 className="hero-headline">
-              Building<br />
-              AI that<br />
-              <em>explains</em><br />
-              itself.
+              Visionary<br />
+              AI for<br />
+              <em>human</em><br />
+              futures.
             </h1>
             <p className="hero-deck">
               AI Engineer at The Philadelphia Inquirer. I build production systems that bring natural language to journalism — archives, audiences, and infrastructure that lasts.
@@ -71,12 +71,12 @@ export default function Hero() {
           <div className="hero-col-right">
             <div className="stat-stack">
               <div className="stat-item">
-                <div className="stat-number">9+</div>
+                <div className="stat-number">7+</div>
                 <div className="stat-label">Conference talks<br />incl. Int&apos;l</div>
               </div>
               <div className="stat-item">
                 <div className="stat-number">3</div>
-                <div className="stat-label">Major newsrooms<br />running Dewey</div>
+                <div className="stat-label">Major newsrooms<br />adopted Dewey</div>
               </div>
               <div className="stat-item">
                 <div className="stat-number">47</div>
